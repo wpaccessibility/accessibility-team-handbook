@@ -1,0 +1,79 @@
+{
+  "index": {
+    "title": "Accessibility Team Handbook",
+    "slug": null,
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/index.md",
+    "parent": null,
+    "order": -1
+  },
+  "about": {
+    "title": "About the Accessibility Team",
+    "slug": "about",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/about/index.md",
+    "parent": null,
+    "order": 1
+  },
+  "get-involved": {
+    "title": "Get Involved",
+    "slug": "get-involved",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/index.md",
+    "parent": null,
+    "order": 2
+  },
+  "get-involved/tickets-tasks-reports": {
+    "title": "Accessibility tickets, tasks, and reports",
+    "slug": "tickets-tasks-reports",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/tickets-tasks-reports/index.md",
+    "parent": "get-involved",
+    "order": 1
+  },
+  "get-involved/audits-and-testing": {
+    "title": "Audits and testing",
+    "slug": "audits-and-testing",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/audits-and-testing/index.md",
+    "parent": "get-involved",
+    "order": 2
+  },
+  "get-involved/getting-started-at-a-contributor-day": {
+    "title": "Get Started at Contributor Day",
+    "slug": "getting-started-at-a-contributor-day",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/index.md",
+    "parent": "get-involved",
+    "order": 3
+  },
+  "get-involved/reporting-issues": {
+    "title": "Report accessibility issues",
+    "slug": "reporting-issues",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/reporting-issues/index.md",
+    "parent": "get-involved",
+    "order": 4
+  },
+  "get-involved/site-feedback-guide": {
+    "title": "Site Feedback Guide",
+    "slug": "site-feedback-guide",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/site-feedback-guide/index.md",
+    "parent": "get-involved",
+    "order": 5
+  },
+  "get-involved/profile-badges": {
+    "title": "Profile Badges",
+    "slug": "profile-badges",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/profile-badges/index.md",
+    "parent": "get-involved",
+    "order": 6
+  },
+  "accessibility-guidelines": {
+    "title": "Accessibility Guidelines",
+    "slug": "which-questions-should-you-ask",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/accessibility-guidelines/index.md",
+    "parent": null,
+    "order": 3
+  },
+  "theme-accessibility": {
+    "title": "Theme Accessibility",
+    "slug": "which-themes-can-you-use",
+    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/which-themes-can-you-use/index.md",
+    "parent": null,
+    "order": 4
+  }
+}
