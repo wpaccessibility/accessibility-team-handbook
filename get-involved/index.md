@@ -33,7 +33,7 @@ Contact: Joe Dolson (@joedolson)
 
 ## Documentation Working Group
 
-We write documentation about accessibility in [our Handbook](https://make.wordpress.org/accessibility/handbook/) and contribute to Accessibility documentation wherever needed around WordPress.org.
+We write documentation about accessibility for the [WP Accessibility Knowledge Base](https://wpaccessibility.org/) and contribute to Accessibility documentation wherever needed around WordPress.org.
 
 - Provide links to good resources and verify the existing links
 - Write explanations and general documentation
