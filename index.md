@@ -1,6 +1,6 @@
-# Handbook
+# WordPress Accessibility Team Handbook
 
-In this Make WordPress Accessibility Handbook you will learn what the [best practices](https://make.wordpress.org/accessibility/handbook/best-practices/) are for web accessibility, the many great [accessibility tools](https://make.wordpress.org/accessibility/handbook/which-tools-can-i-use/), the [testing we do](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) to improve WordPress, themes, and plugins, and [how to get involved](https://make.wordpress.org/accessibility/handbook/get-involved/) in WordPress accessibility.
+Welcome to the Accessibility Team Handbook. Here you find information about the team, the work we do and [how to get involved](https://make.wordpress.org/accessibility/handbook/get-involved/). Learn about the [accessibility testing we do](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) to improve WordPress core, themes and plugins.
 
 ## Our Mission
 
@@ -12,4 +12,8 @@ You are a part of this mission. You benefit from this mission. So in the spirit 
 
 The Make WordPress Accessible Team needs your time and talent. Writers, marketers, developers, copy editors, testers: anyone can help.
 
-[Help us make WordPress more accessible](https://make.wordpress.org/accessibility/get-involved/).
+Help us [make WordPress more accessible](https://make.wordpress.org/accessibility/get-involved/).
+
+## The WP Accessibility Knowledge Base
+
+In our dedicated documentation site [WP Accessibility Knowledge Base](https://wpaccessibility.org/) you will learn how to start and test for accessibility and what the [standards and best practices](https://wpaccessibility.org/docs/topics/) are for accessible websites. 
