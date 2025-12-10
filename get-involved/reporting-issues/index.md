@@ -1,6 +1,6 @@
 # Report accessibility issues
 
-## How to report an accessibility issue
+## How to report an accessibility issue in WordPress core
 
 Before adding a new issue, make an attempt to search existing tickets. If the issue already exists, consider making a comment on the existing ticket to help emphasize its importance or give additional context.
 
