@@ -8,8 +8,9 @@ WordPress constantly evolves and improves. It is never “done.” The same is t
 - Meets in the [WordPress Slack](https://make.wordpress.org/chat/) #accessibility channel.
 - Helps with the discussion of possible solutions.
 - Contributes documentation to the:
-  - [handbook](https://make.wordpress.org/accessibility/handbook/).
-  - [theme developers handbook](https://developer.wordpress.org/themes/functionality/accessibility/).
+  - [Accessibility handbook](https://make.wordpress.org/accessibility/handbook/).
+  - [WP Accessibility Knowledge Base](https://wpaccessibility.org/).
+  - [Theme developers handbook](https://developer.wordpress.org/themes/functionality/accessibility/).
   - [Core documentation on Accessibility](https://wordpress.org/about/accessibility/).
 - Develops and maintains an [accessibility standard for themes](https://make.wordpress.org/themes/handbook/review/accessibility/).
 - Distributes design pattern [code examples on GitHub](https://github.com/wpaccessibility/a11ythemepatterns).
