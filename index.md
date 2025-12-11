@@ -1,6 +1,6 @@
 # WordPress Accessibility Team Handbook
 
-Welcome to the Accessibility Team Handbook. Here you find information about the team, the work we do and [how to get involved](https://make.wordpress.org/accessibility/handbook/get-involved/). Learn about the [accessibility testing we do](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) to improve WordPress core, themes and plugins.
+Welcome to the Accessibility Team Handbook. Here you can find information about the team, the work we do and [how to get involved](https://make.wordpress.org/accessibility/handbook/get-involved/). Learn about the [accessibility testing we do](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) to improve WordPress core, themes and plugins.
 
 ## Our Mission
 

@@ -48,4 +48,6 @@ Please read the page [Gutenberg Accessibility Testing](https://make.wordpress.or
 
 Accessibility issues of the website [wordpress.org](http://wordpress.org/) are listed in [the meta trac](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&description=~accessibility&report=15&order=priority).
 
+Also, many subprojects on wordpress.org have their own repository on the [WordPress GitHub account](https://github.com/orgs/WordPress/repositories). Like the Block Editor and the Team Handbooks. Search within the labels of issues in a repository for the word "Accessibility".
+
 WordPress.org is enormous, and there are always items that haven’t been tested yet. If you’re an accessibility tester, please take a look at the site, and it’s functionality and report any issues you find.

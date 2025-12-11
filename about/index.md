@@ -15,7 +15,6 @@ WordPress constantly evolves and improves. It is never “done.” The same is t
 - Develops and maintains an [accessibility standard for themes](https://make.wordpress.org/themes/handbook/review/accessibility/).
 - Distributes design pattern [code examples on GitHub](https://github.com/wpaccessibility/a11ythemepatterns).
 - Performs [tests and audits](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/).
-- Gives presentations [at WordCamps](http://wordpress.tv/tag/accessibility/) and Meetups.
 - [Writes tickets and patches](https://core.trac.wordpress.org/focus/accessibility) on the Core trac.
 - Extends WordPress with [plugins](https://wordpress.org/plugins/tags/a11y).
 - Reviews themes for the WordPress.org repo.
