@@ -11,13 +11,8 @@ At a contributor day or drive we have two primary tasks:
 
 ### Learn about accessibility
 
-The team leads can give several workshops / presentations on request. These presentations are online and free for anyone to give:
-
-- [Writing accessible content](http://rianrietveld.com/2017/11/01/yoastcon/) (for content managers)
-- [Keyboard navigation](http://rianrietveld.com/2016/05/10/keyboard/) (for developers)
-- [Accessibility, where to start](https://www.slideshare.net/rianrietveld/web-accessibility-where-to-start-78971767) (for everyone involved in a web project)
-
-In the [handbook](https://make.wordpress.org/accessibility/handbook/best-practices/) you can find best practices and resources about accessibility.
+The team members can give workshops on request at a contributor day. For example on how to test for accessibility or how to use a keyboard to navigate a website.
+In the [WP Accessibility Knowledge Base](https://wpaccessibility.org/) you can find best practices and resources about accessibility.
 
 #### Improve Accessibility in WordPress
 
@@ -53,4 +48,6 @@ Please read the page [Gutenberg Accessibility Testing](https://make.wordpress.or
 
 Accessibility issues of the website [wordpress.org](http://wordpress.org/) are listed in [the meta trac](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&description=~accessibility&report=15&order=priority).
 
-WordPress.org is enormous, and there are always items that haven’t been tested yet. If you’re an accessibility tester, please take a look at the site and it’s functionality and report any issues you find.
+Also, many subprojects on wordpress.org have their own repository on the [WordPress GitHub account](https://github.com/orgs/WordPress/repositories). Like the Block Editor and the Team Handbooks. Search within the labels of issues in a repository for the word "Accessibility".
+
+WordPress.org is enormous, and there are always items that haven’t been tested yet. If you’re an accessibility tester, please take a look at the site, and it’s functionality and report any issues you find.

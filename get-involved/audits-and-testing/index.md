@@ -1,4 +1,4 @@
-## Audits and testing
+## Accessibility Audits and testing
 
 WordPress regularly improves its features and creates new core themes. The accessibility team monitors these changes and tests them for web accessibility.
 
@@ -31,4 +31,4 @@ We are looking for people familiar with WordPress, with time to run tests, espec
 - Are subject-matter-experts in web accessibility or,
 - Are web developers that can help write patches.
 
-Join our weekly meetings on the #accessibility channel in [Slack](https://wordpress.slack.com/messages/accessibility/) and introduce yourself!
+Join our meetings on the [#accessibility channel in Slack](https://wordpress.slack.com/messages/accessibility/) and introduce yourself! Check the meetings calendar for the dates and times of the [accessibility team meetings and bug scrubs](https://make.wordpress.org/meetings/#accessibility).

@@ -1,6 +1,5 @@
 ## Get involved
 
-
 Members of the Make WordPress Accessibility Team are volunteers working on improvements to accessibility in WordPress for people with disabilities.
 
 Not everybody contributing to WordPress is technically minded, and everyone who is connected with accessibility can contribute to the Accessibility team. We particularly want to hear from people who are regular users of assistive technology (AT), as your perspective is especially valuable testing accessibility fixes for WordPress.
@@ -13,13 +12,13 @@ Each new version of WordPress brings accessibility improvements. The more discus
 
 If you want to contribute to WordPress, there are several ways. It’s not just writing code! Join one of our working groups outlined below by contacting the point person in the #accessibility channel on Slack.
 
-## Design Working Group
+### Design Working Group
 
 Coordinate with the WordPress Design team to monitor what kinds of design changes are happening in WordPress and help contribute to keeping accessibility at the forefront in design.
 
 Contact: Needed!
 
-## General Working Group
+### General Working Group
 
 Monitor the broad accessibility of WordPress core and any areas of WordPress not covered by another working group. Monitors and contributes to tickets in the [core Trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility). The general team is primarily developers and testers.
 
@@ -31,9 +30,9 @@ Take a look at [the overview of accessibility tickets](https://make.wordpress.or
 
 Contact: Joe Dolson (@joedolson)
 
-## Documentation Working Group
+### Documentation Working Group
 
-We write documentation about accessibility in [our Handbook](https://make.wordpress.org/accessibility/handbook/) and contribute to Accessibility documentation wherever needed around WordPress.org.
+We write documentation about accessibility for the [WP Accessibility Knowledge Base](https://wpaccessibility.org/) and contribute to Accessibility documentation wherever needed around WordPress.org.
 
 - Provide links to good resources and verify the existing links
 - Write explanations and general documentation
@@ -41,7 +40,7 @@ We write documentation about accessibility in [our Handbook](https://make.wordpr
 
 Contact: Rian Rietveld (@rianrietveld)
 
-## Gutenberg Working Group
+### Gutenberg Working Group
 
 We review Gutenberg accessibility-related issues, write and discuss tickets on [GitHub](https://github.com/WordPress/gutenberg/labels/Accessibility%20%28a11y%29) and write code patches. We need people who know how to [test for accessibility](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) and/or use assistive technology to test existing and new functionality.
 
@@ -51,19 +50,19 @@ We review Gutenberg accessibility-related issues, write and discuss tickets on [
 
 Contact: Anne McCarthy (@annezazu)
 
-## Media Working Group
+### Media Working Group
 
 Track media accessibility issues, write and discuss or patch tickets on [core trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility) for the WordPress.org core repo. Provide opinions on handling of video and imagery across WordPress.org.
 
 Contact: Joe Dolson (@joedolson)
 
-## Meta Working Group
+### Meta Working Group
 
 Meta is the infrastructure of WordPress.org and its related sites, including [Learn](https://learn.wordpress.org/), [TV](https://wordpress.tv/), [OpenVerse](https://openverse.org/), and many others. Report and track accessibility issues, discuss tickets on the [meta trac](https://meta.trac.wordpress.org/) or in the [WordPress meta Github repositories](https://github.com/orgs/WordPress/repositories).
 
 Contact: Joe Dolson (@joedolson)
 
-## Themes Working Group
+### Themes Working Group
 
 We review themes for the WordPress.org repo [labelled with the accessibility-ready tag](https://wordpress.org/themes/tags/accessibility-ready/), new core themes, and review of the [WordCamp themes](https://plan.wordcamp.org/first-steps/web-presence/using-the-wordcamp-theme/) and provide assistance with accessibility issues.
 
