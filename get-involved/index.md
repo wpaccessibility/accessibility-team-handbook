@@ -2,7 +2,7 @@
 
 Members of the Make WordPress Accessibility Team are volunteers working on improvements to accessibility in WordPress for people with disabilities.
 
-Not everybody contributing to WordPress is technically minded, and everyone who is connected with accessibility can contribute to the Accessibility team. We particularly want to hear from people who are regular users of assistive technology (AT), as your perspective is especially valuable testing accessibility fixes for WordPress.
+Not everybody contributing to WordPress is technically minded; in fact, everyone who is connected with accessibility can contribute to the Accessibility team. We particularly want to hear from people who are regular users of assistive technology (AT), as your perspective is especially valuable testing accessibility fixes for WordPress.
 
 The Accessibility team includes core committers, developers, testing specialists, content writers, and organizers; it could include you!
 
@@ -46,7 +46,7 @@ We review Gutenberg accessibility-related issues, write and discuss tickets on [
 
 - Monitor [changes to the Editor](https://make.wordpress.org/accessibility/gutenberg-testing/), both in Full Site Editing and in Block Editor
 - Track goals for future versions of the editor and design changes
-- Keep the team in the loop when major changes are planned
+- Keep the team informed when major changes are planned
 
 Contact: Anne McCarthy (@annezazu)
 
