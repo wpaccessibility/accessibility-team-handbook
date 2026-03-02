@@ -20,7 +20,7 @@ Contact: Needed!
 
 ### General Working Group
 
-Monitor the broad accessibility of WordPress core, and any areas of WordPress not covered by another working group. Monitors and contributes to tickets in the [core Trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility). The general team is primarily developers and testers.
+We monitor the broad accessibility of WordPress core and any areas of WordPress not covered by another working group. We also monitor and contribute to tickets in the [core Trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility). The general team is primarily developers and testers.
 
 - Writing patches for accessibility trac tickets
 - Give code examples for trac tickets (the expected output)
