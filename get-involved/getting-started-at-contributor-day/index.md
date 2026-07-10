@@ -1,20 +1,16 @@
-# Get Started at Contributor Day
+# Get started at a contributor day
 
-Contributor days are events that happen at major WordCamps. Contributor Days are events like WordCamp US or WordCamp EU can have hundreds of contributors working together, simultaneously. If you need any help, talk to the contributor day organizer, or ask your question in the #accessibility channel on [Slack](https://make.wordpress.org/chat/).
+Contributor days are events that happen at major WordCamps. Contributor Days are events like WordCamp US or WordCamp EU that have hundreds of contributors working together, simultaneously. 
 
-## Contributor Day Activities
+At a contributor day or drive we have three primary tasks:
 
-At a contributor day or drive we have two primary tasks:
+- Improve the accessibility of WordPress core, the bundled themes, and WordPress.org.
+- Test themes that are submitted to the themes repository with the 'accessibility-ready' tag.
+- Teach designers, developers, and content writers about web accessibility.
 
-- Improve the accessibility of WordPress core, the bundled themes and WordPress.org
-- Teach designers, developers and content writers about web accessibility
+If you need any help, talk to the contributor day organizer, or ask your question in the [#accessibility channel on Slack](https://make.wordpress.org/chat/).
 
-### Learn about accessibility
-
-The team members can give workshops on request at a contributor day. For example on how to test for accessibility or how to use a keyboard to navigate a website.
-In the [WP Accessibility Knowledge Base](https://wpaccessibility.org/) you can find best practices and resources about accessibility.
-
-#### Improve Accessibility in WordPress
+## Improve the accessibility of WordPress
 
 How can you help improve WordPress?
 
@@ -22,32 +18,25 @@ How can you help improve WordPress?
 - Designers who want to help in discussions about making things beautiful and also accessible
 - Accessibility testers to help find new issues, test fixes, and discuss solutions
 
-You can work at the accessibility table or at the core, themes or design tables. Accessibility touches many aspects of the project. All designers, developers and testers are welcome to pick up any task that fits them.
+You can work at the accessibility table or at core, block editor or full site editing, themes, or design tables. Accessibility touches many aspects of the project. All designers, developers, and testers are welcome to pick up any task that fits them.
 
-In the [WordPress Slack](https://make.wordpress.org/chat/) channel #accessibility you can ask for work with priority or for help with choosing a task. The time needed for a task depends on the complexity of the issue. But testing a patch or fix, confirming a bug, or adding ideas is also useful and usually quicker.
+In the [#accessibility channel on Slack](https://make.wordpress.org/chat/) you can ask for work with priority or for help with choosing a task. The time needed for a task depends on the complexity of the issue. But testing a patch or fix, confirming a bug, or adding ideas is also useful and usually quicker.
 
-#### Work on accessibility tickets for WordPress core
+An overview of all accessibility tickets is gathered on the page [Accessibility related tickets](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/) in WordPress trac. You can also ask the team lead for tickets that have priority and check the [good first bug report](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~good-first-bug&focuses=~accessibility&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&order=priority) or ask in the #accessibility channel in Slack.  Find documentation about WordPress core in [contribute to WordPress core](https://make.wordpress.org/core/handbook/).
 
-If you know how to [contribute to WordPress core](https://make.wordpress.org/core/handbook/contribute/), as a developer or designer, please join us and fix a ticket or test a patch!
+The Block editor issues you can work on as a developer or designer are listed in the [Gutenberg repository](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+label%3AAccessibility) repo labeled Accessibility. Find documentation about the Block Editor in the [Block Development Environment](https://developer.wordpress.org/block-editor/getting-started/devenv/).
 
-An overview of all accessibility tickets is gathered on the page [Accessibility related tickets](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/) in WordPress trac. You can also ask the team lead for tickets that have priority and check the [good first bug report](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~good-first-bug&focuses=~accessibility&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&order=priority) or ask in the #accessibility channel in Slack.
+## Test accessibility-ready themes
 
-#### Work on the Block Editor
+Theme developers may request an optional accessibility review as part of the theme review process or later for an existing theme.
 
-The Block Editor has been the primary editing environment for WordPress since version 5.0. Development on the editor is ongoing. Development on the block editor is done in GitHub through the “Gutenberg” plugin. This plugin is where new features are experimented on and fixes are implemented before being merged back to WordPress core.
+Submitted themes (or theme updates) that pass a manual review are approved to use the accessibility-ready tag and show up in the theme directory as [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/).
 
-Issues you can work on as a developer or designer are in the [Gutenberg GitHub](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+label%3AAccessibility) repo labeled with “Accessibility”.
+You can help reviewing accessibility-ready themes. Ask the table lead or in the [#accessibility-testing channel on Slack](https://make.wordpress.org/chat/) for a theme that needs a review. The review process is described in the [Accessibility-Ready theme testing instructions](https://make.wordpress.org/accessibility/handbook/get-involved/getting-started-at-a-contributor-day/accessibility-ready-testing).
 
-#### Test the Block Editor
+## Learn about accessibility
 
-If you know your way around assistive technology like screen readers, or can navigate sites using only your keyboard, your experience with the block editor is appreciated! The [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/) is released on a biweekly schedule, so it’s usually pretty close to the latest state of development. However, if you want to run tests on code that is not yet merged, [you’ll probably need to be able to work in a local development environment](https://developer.wordpress.org/block-editor/getting-started/devenv/).
+The team members can give workshops on request at a contributor day. For example, on how to test for accessibility or how to use a keyboard to navigate a website. 
 
-Please read the page [Gutenberg Accessibility Testing](https://make.wordpress.org/accessibility/gutenberg-testing/) on how to test the plugin.
+You can also ask questions you have about the accessibility of your work to the table leads or other attendees that may be able to help you.
 
-#### Work on WordPress.org (meta)
-
-Accessibility issues of the website [wordpress.org](http://wordpress.org/) are listed in [the meta trac](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&description=~accessibility&report=15&order=priority).
-
-Also, many subprojects on wordpress.org have their own repository on the [WordPress GitHub account](https://github.com/orgs/WordPress/repositories). Like the Block Editor and the Team Handbooks. Search within the labels of issues in a repository for the word "Accessibility".
-
-WordPress.org is enormous, and there are always items that haven’t been tested yet. If you’re an accessibility tester, please take a look at the site, and it’s functionality and report any issues you find.
