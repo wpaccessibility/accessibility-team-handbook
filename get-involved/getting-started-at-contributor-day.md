@@ -32,11 +32,14 @@ Theme developers may request an optional accessibility review as part of the the
 
 Submitted themes (or theme updates) that pass a manual review are approved to use the accessibility-ready tag and show up in the theme directory as [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/).
 
-You can help reviewing accessibility-ready themes. Ask the table lead or in the [#accessibility-testing channel on Slack](https://make.wordpress.org/chat/) for a theme that needs a review. The review process is described in the [Accessibility-Ready theme testing instructions](https://make.wordpress.org/accessibility/handbook/get-involved/getting-started-at-a-contributor-day/accessibility-ready-testing).
+You can help reviewing accessibility-ready themes. Ask the table lead or in the [#accessibility-testing channel on Slack](https://make.wordpress.org/chat/) for a theme that needs a review.
+
+The accessibility-ready requirements for themes are listed in the [Accessibility-Ready Requirements](https://wpaccessibility.org/docs/accessibility-ready/theme-guidelines/) section.
+
+The section [Set up testing for the WordPress themes accessibility-ready program](https://wpaccessibility.org/docs/accessibility-ready/testing-themes/) outlines the steps for conducting a theme accessibility-ready requirements review.
 
 ## Learn about accessibility
 
 The team members can give workshops on request at a contributor day. For example, on how to test for accessibility or how to use a keyboard to navigate a website. 
 
 You can also ask questions you have about the accessibility of your work to the table leads or other attendees that may be able to help you.
-
