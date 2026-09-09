@@ -16,7 +16,7 @@ The guidelines for the WordPress theme directory’s [accessibility-ready progra
 
 **Note**: accessibility-ready does not mean a theme meets the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/) at level AA. It means that the theme reaches the minimum standards that the theme review team has set.
 
-## Find accessibility Ready themes
+## Find accessibility-ready themes
 
 In the [Themes Directory](https://wordpress.org/themes/) on WordPress.org, select the ‘Accessibility Ready’ option in the Feature Filter to browse [themes tested against the “Accessibility Ready” guidelines](https://wordpress.org/themes/tags/accessibility-ready/).
 

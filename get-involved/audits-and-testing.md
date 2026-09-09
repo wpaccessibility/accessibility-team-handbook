@@ -11,7 +11,7 @@ WordPress regularly improves its features and creates new core themes. The acces
 - Bundled core themes.
 - Themes submitted to earn the accessibility-ready tag.
 
-In the Slack accessibility channel, we weekly host a [bug scrub for accessibility issues](https://make.wordpress.org/meetings/#accessibility) on Trac and on GitHub.
+In the Slack accessibility channel, we host a [weekly bug scrub for accessibility issues](https://make.wordpress.org/meetings/#accessibility) on Trac and on GitHub.
 
 ## How we test
 

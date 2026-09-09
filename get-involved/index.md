@@ -2,7 +2,7 @@
 
 Members of the Make WordPress Accessibility Team are volunteers working on improvements to accessibility in WordPress for people with disabilities.
 
-Not everybody contributing to WordPress is technically minded; in fact, everyone connected with accessibility can contribute to the Accessibility Team. We particularly want to hear from people who are regular users of assistive technology (AT), as your perspective is especially valuable testing accessibility fixes for WordPress.
+Not everybody contributing to WordPress is technically minded; but everyone connected with accessibility can contribute to the Accessibility Team. We particularly want to hear from people who are regular users of assistive technology (AT), as your perspective is especially valuable testing accessibility fixes for WordPress.
 
 The Accessibility Team includes core committers, developers, testing specialists, content writers, and organizers; it could include you!
 
@@ -24,7 +24,7 @@ Monitor the broad accessibility of WordPress core, and any areas of WordPress no
 
 Take a look at [the overview of accessibility tickets](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/) and take your pick.
 
-We review Gutenberg accessibility-related issues, write and discuss tickets on [GitHub](https://github.com/WordPress/gutenberg/labels/Accessibility%20%28a11y%29) and write code patches. We need people who know how to [test for accessibility](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) and/or use assistive technology to test existing and new functionality.
+Monitor Gutenberg accessibility-related issues; write and discuss tickets on [GitHub](https://github.com/WordPress/gutenberg/labels/Accessibility%20%28a11y%29) and write code patches. Needs people who know how to [test for accessibility](https://make.wordpress.org/accessibility/handbook/get-involved/audits-and-testing/) and/or use assistive technology to test existing and new functionality.
 
 - Monitor [changes to the Editor](https://make.wordpress.org/accessibility/gutenberg-testing/), both in Full Site Editing and in Block Editor
 - Track goals for future versions of the editor and design changes

@@ -4,7 +4,7 @@
 
 The primary guidance for web accessibility on a global basis are the **[Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/)**, commonly referred to as **WCAG**. 
 
-Many countries use the accessibility standard WCAG or equivalent for their government websites. Some countries require compliance with these guidelines also for commercial websites. Read which legislation applies to your work on [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/) by the W3C Web Accessibility Initiative.
+Many countries use WCAG or equivalent accessibility standards for their government websites. Some countries also require compliance with these guidelines for commercial websites. Read which legislation applies to your work in [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/) by the W3C Web Accessibility Initiative.
 
 ## WordPress accessibility coding standard
 
@@ -21,4 +21,4 @@ The accessibility standards for WordPress themes, submitted to the WordPress The
 
 The guidelines for the WordPress theme directory’s [accessibility-ready program](https://wpaccessibility.org/docs/accessibility-ready/) are documented in the WP Accessibility Knowledge Base. The `accessibility-ready` guidelines are additional to the theme guidelines.
 
-**Note**: accessibility-ready does not mean a theme meets the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/) at level AA. It means that the theme reaches the minimum standards that the theme review team has set.
+**Note**: accessibility-ready does not mean a theme meets the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/) at level AA. It means that the theme reaches the minimum standards that the accessibility team has set in cooperation with the theme team.

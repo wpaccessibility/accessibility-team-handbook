@@ -1,6 +1,6 @@
 # Get started at a contributor day
 
-Contributor days are events that happen at major WordCamps. Contributor Days are events like WordCamp US or WordCamp EU that have hundreds of contributors working together, simultaneously. 
+Contributor days are events that happen at major WordCamps. At Contributor Days during events like WordCamp US or WordCamp EU hundreds of contributors work simultaneously to help build WordPress together. 
 
 At a contributor day or drive we have three primary tasks:
 

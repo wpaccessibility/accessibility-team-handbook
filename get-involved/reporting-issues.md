@@ -2,7 +2,7 @@
 
 How to report an accessibility issue in WordPress core, the block editor, full site editing, bundled themes or the website WordPress.org.
 
-Before adding a new ticket or issue, make an attempt to search existing ones. If the ticket or issue already exists, consider making a comment on the existing ticket or issue to help emphasize its importance or give additional context.
+Before adding a new ticket or issue, make an attempt to search the existing tickets. If the ticket or issue already exists, consider making a comment on the existing ticket or issue to help emphasize its importance or give additional context.
 
 - You need a [WordPress.org account](https://login.wordpress.org/register) to create a ticket.
 - If you find an accessibility issue in WordPress core, report it in the [WordPress trac](https://core.trac.wordpress.org/). Create a ticket with the focus 'accessibility' with the type 'defect(bug)'.
