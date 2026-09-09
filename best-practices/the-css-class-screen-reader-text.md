@@ -1,6 +1,8 @@
 # The CSS class screen-reader-text
 
-Best practices are no longer published in the Accessibility Handbook.
+<div class="callout callout-info">
+**Note**: Best practices are no longer published in the Accessibility Handbook.
+</div>
 
 Find the information about the `screen-reader-text` CSS class in: 
 - [The CSS class screen-reader-text](https://wpaccessibility.org/docs/topics/code/screen-reader-text/) in the WP Accessibility Knowledge Base.

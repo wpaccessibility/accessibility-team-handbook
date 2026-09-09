@@ -16,6 +16,8 @@ Known issues for core are tracked in tickets with a [focus on accessibility](htt
 
 The team also reviews accessibility in the [themes that ship with WordPress](https://wordpress.org/themes/author/wordpressdotorg/).
 
+Contact: Joe Dolson (@joedolson).
+
 ### The accessibility-ready program
 
 Theme developers may request an optional accessibility review as part of the theme review process or later for an existing theme.
@@ -23,6 +25,8 @@ Theme developers may request an optional accessibility review as part of the the
 Submitted themes (or theme updates) that pass a manual review are approved to use the accessibility-ready tag and show up in the theme directory as [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/).
 
 The Accessibility Team maintains the [guidelines for the accessibility-ready program](https://wpaccessibility.org/docs/accessibility-ready/) and performs accessibility reviews to check whether submitted themes meet the accessibility-ready requirements.
+
+Contact: Amber Hinds (@alh0319).
 
 ### Documentation and education
 
@@ -33,3 +37,5 @@ To help and educate the community, the team writes documentation about accessibi
 - [Theme developers handbook](https://developer.wordpress.org/themes/functionality/accessibility/), the section about accessibility, with accessibility requirements for themes submitted to the [themes repository](https://wordpress.org/themes/).
 - [Accessibility handbook](https://make.wordpress.org/accessibility/handbook/), about the team and their work.
 - [About accessibility](https://wordpress.org/about/accessibility/), the main information about WordPress' accessibility.
+
+Contact: Rian Rietveld (@rianrietveld).

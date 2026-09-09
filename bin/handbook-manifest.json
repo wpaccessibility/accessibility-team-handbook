@@ -103,19 +103,5 @@
     "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/accessibility-guidelines/index.md",
     "parent": null,
     "order": 4
-  },
-  "theme-accessibility": {
-    "title": "Theme Accessibility",
-    "slug": "theme-accessibility",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/theme-accessibility/index.md",
-    "parent": null,
-    "order": 5
-  },
-  "plugin-accessibility": {
-    "title": "Plugin Accessibility",
-    "slug": "plugin-accessibility",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/plugin-accessibility/index.md",
-    "parent": null,
-    "order": 6
   }
 }

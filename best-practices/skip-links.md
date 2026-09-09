@@ -1,6 +1,8 @@
 # Skip links
 
-Best practices are no longer published in the Accessibility Handbook.
+<div class="callout callout-info">
+**Note**: Best practices are no longer published in the Accessibility Handbook.
+</div>
 
 Find the information about skip links in:  
 - [Skip links](https://wpaccessibility.org/docs/topics/code/components/skip-links/) in the WP Accessibility Knowledge Base.

@@ -1,5 +1,9 @@
 # Test for web accessibility
 
+<div class="callout callout-info">
+**Note**: The documentation about Testing for web accessibility is currently published on the WP Accessibility Knowledge Base in the section <a href="https://wpaccessibility.org/docs/testing/">Test for accessibility</a>.
+</div>
+
 The documentation about Testing for web accessibility is now published on the [WP Accessibility Knowledge Base](https://wpaccessibility.org/). There you can find information about:
 
 * [Checklists for the Web Content Accessibility Guidelines](https://wpaccessibility.org/docs/testing/overall/)
