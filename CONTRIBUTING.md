@@ -1,8 +1,5 @@
 # Contributing
 
-TODO: This is copied form the hosting handbook, ask for permission and check if everyting works after transfer to 
-WordPress GitHub.
-
 Thank you for your interest in contributing to the [WordPress Accessibility Team Handbook](https://make.wordpress.org/accessibility/handbook/)! If you're unsure of anything, please know that you're welcome to [submit an Issue](https://github.com/WordPress/accessibility-team-handbook/issues) or [Pull Request](https://github.com/WordPress/accessibility-team-handbook/pulls) on any topic. The worst that can happen is that you'll be politely directed to the best location to ask your question or to change something in your Pull Request. All contributions are valuable, and a wall of rules could get in the way of that.
 
 As with all WordPress projects, it is a priority to ensure a welcoming environment for everyone. With that in mind, all contributors are expected to follow our [Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/).
@@ -39,4 +36,4 @@ There's an included WP-CLI command to take care of this. To run it, from the clo
 - If you need it, install WP-CLI using the [instructions from WP-CLI.org](https://wp-cli.org/#Installing) or your favorite package manager.
 - Run `wp accessibility-handbook gen-all`.
 
-The manifest should get created inside the repo, in `/manifest/handbook-manifest.json`.
+The manifest should get created inside the repo, in `/bin/handbook-manifest.json`.
